@@ -1,0 +1,8 @@
+ea2e6e760d50e2fb2a364f67c18d3604 *DESCRIPTION
+1e89a47417a3c4ab94ef78fd06ccc752 *NAMESPACE
+c405a8dc3d0b0aa2cd110fe38f432403 *R/lxb.R
+0f13529406c730a9fc467f7840985c5f *man/lxb-package.Rd
+5f7120a32372a203543b3cad03f024ce *man/readLxb.Rd
+73b0aea44b32e7de4560061b0a4f4369 *src/lxb.c
+2a0218978f54d70f9ccdcca7c3d508e7 *src/map_lib.c
+9e1807d1936e290bb99d837425ee4ecf *src/map_lib.h
